@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# VisualStudio generated files
+*.sln
+*.vcxproj
+*.filters
+*.user
